@@ -11,12 +11,14 @@ def line(katz_deli)
     newline = ["The line is currently "]
     while j < i do
       newline.push(j)
-      newline[k].concat
+      newline[k].concat(". ")
+      newline[k].concat(katz_deli[k])
+      newline[k].concat(" ")
       
       
   j = j + 1 
   k = k + 1 
-  
+end
   
 end
   
