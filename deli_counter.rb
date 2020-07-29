@@ -11,7 +11,7 @@ def line(katz_deli)
      new_array.push(" #{i}. #{position}")
      i = i + 1
     end
-    a =  "The line is currectly: "
+    a =  "The line is currently:"
     b = new_array.join
     
     puts a.concat(b)
