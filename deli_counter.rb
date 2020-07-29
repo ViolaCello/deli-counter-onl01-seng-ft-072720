@@ -20,6 +20,8 @@ def line(katz_deli)
   k = k + 1 
 end
   
+  puts newline.join
+  
 end
   
   
