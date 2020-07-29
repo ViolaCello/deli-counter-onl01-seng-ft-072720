@@ -6,12 +6,16 @@ def line(katz_deli)
     puts "The line is currently empty."
   
     i = katz_deli.size
-    j = i + 1 
+    j = 1 
+    k = 0 
     newline = ["The line is currently "]
     while j < i do
       newline.push(j)
+      newline[k].concat
       
       
+  j = j + 1 
+  k = k + 1 
   
   
 end
