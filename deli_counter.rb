@@ -17,7 +17,8 @@ def line(katz_deli)
     puts a.concat(b)
   end
 
-def take_a_number()
+def take_a_number(katz_deli, name)
+  
   
   
 end
