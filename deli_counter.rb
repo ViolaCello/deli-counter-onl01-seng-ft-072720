@@ -9,6 +9,7 @@ def line(katz_deli)
     new_array = []
     katz_deli.each do |position|
      new_array.push(" #{i}. #{position}")
+     i +=
     end
     a =  "The line is currectly: "
     b = new_array.join
