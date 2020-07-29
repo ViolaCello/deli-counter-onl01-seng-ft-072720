@@ -15,10 +15,9 @@ def line(katz_deli)
     b = new_array.join
     
     puts a.concat(b)
-    
   end
 
-
+def take_a_number()
   
   
 end
