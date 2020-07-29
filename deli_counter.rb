@@ -1,2 +1,3 @@
 # Write your code here.
-katz
+katz_deli = []
+
