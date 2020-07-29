@@ -6,7 +6,7 @@ def line(katz_deli)
     puts "The line is currently empty."
   else
     i = 1 
-    new_arr = []
+    new_array = []
     katz_deli.each do |position|
      new_array.push(" #{i}. #{position}")
     end
