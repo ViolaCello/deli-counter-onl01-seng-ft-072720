@@ -18,7 +18,8 @@ def line(katz_deli)
   end
 
 def take_a_number(katz_deli, name)
-  
+  b = katz_deli.length + 1 
+  a = "Welcome, #{name}. You are number "
   
   
 end
